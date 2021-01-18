@@ -1,1 +1,1 @@
-#sandbox to play with snowflake commands for free
+sandbox to play with snowflake commands for free
